@@ -9,6 +9,8 @@
 
 namespace WebApplication1
 {
+
+
    public partial class Default
    {
 
@@ -49,6 +51,15 @@ namespace WebApplication1
       protected global::System.Web.UI.WebControls.SqlDataSource SqlDataSource3;
 
       /// <summary>
+      /// SqlDataSource4 элемент управления.
+      /// </summary>
+      /// <remarks>
+      /// Автоматически создаваемое поле.
+      /// Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+      /// </remarks>
+      protected global::System.Web.UI.WebControls.SqlDataSource SqlDataSource4;
+
+      /// <summary>
       /// DropDownList1 элемент управления.
       /// </summary>
       /// <remarks>
@@ -67,22 +78,22 @@ namespace WebApplication1
       protected global::System.Web.UI.WebControls.Calendar Calendar1;
 
       /// <summary>
-      /// Button1 элемент управления.
+      /// Button4 элемент управления.
       /// </summary>
       /// <remarks>
       /// Автоматически создаваемое поле.
       /// Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
       /// </remarks>
-      protected global::System.Web.UI.WebControls.Button Button1;
+      protected global::System.Web.UI.WebControls.Button Button4;
 
       /// <summary>
-      /// Label1 элемент управления.
+      /// GridView2 элемент управления.
       /// </summary>
       /// <remarks>
       /// Автоматически создаваемое поле.
       /// Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
       /// </remarks>
-      protected global::System.Web.UI.WebControls.Label Label1;
+      protected global::System.Web.UI.WebControls.GridView GridView2;
 
       /// <summary>
       /// DropDownList3 элемент управления.
